@@ -7,4 +7,4 @@ Pelvic floor disorders, which include pelvic organ prolapse, affect nearly 1 in 
 ![Image](https://i.imgur.com/orfhvAE.png)
 
 ### Poster
-[Github Link](https://github.com/javier2828/segmentationMRI/blob/master/poster.pdf)
+[<img src="https://i.imgur.com/zWsHBzv.png">](https://github.com/javier2828/segmentationMRI/blob/master/poster.pdf)
